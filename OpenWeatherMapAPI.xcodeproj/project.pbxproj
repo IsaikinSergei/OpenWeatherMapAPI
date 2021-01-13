@@ -20,6 +20,7 @@
 		EA7D364C25ADD8F2005E3EBF /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7D364B25ADD8F2005E3EBF /* CurrentWeather.swift */; };
 		EA7D365225AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png in Resources */ = {isa = PBXBuildFile; fileRef = EA7D365025AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png */; };
 		EA7D365325AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png in Resources */ = {isa = PBXBuildFile; fileRef = EA7D365125AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png */; };
+		EA7D365625AEF165005E3EBF /* Снимок экрана 2021-01-13 в 13.13.31.png in Resources */ = {isa = PBXBuildFile; fileRef = EA7D365525AEF165005E3EBF /* Снимок экрана 2021-01-13 в 13.13.31.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		EA7D364B25ADD8F2005E3EBF /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
 		EA7D365025AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 12.31.12.png"; sourceTree = "<group>"; };
 		EA7D365125AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 12.31.21.png"; sourceTree = "<group>"; };
+		EA7D365525AEF165005E3EBF /* Снимок экрана 2021-01-13 в 13.13.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 13.13.31.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				EA7D365025AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png */,
+				EA7D365525AEF165005E3EBF /* Снимок экрана 2021-01-13 в 13.13.31.png */,
 				EA7D365125AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png */,
 			);
 			path = Screenshots;
@@ -189,6 +192,7 @@
 				EA7D362F25ACDCB3005E3EBF /* LaunchScreen.storyboard in Resources */,
 				EA7D362C25ACDCB3005E3EBF /* Assets.xcassets in Resources */,
 				EA7D362A25ACDCB2005E3EBF /* Main.storyboard in Resources */,
+				EA7D365625AEF165005E3EBF /* Снимок экрана 2021-01-13 в 13.13.31.png in Resources */,
 				EA7D365325AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
