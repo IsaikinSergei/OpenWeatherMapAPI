@@ -18,6 +18,8 @@
 		EA7D364525AD87B7005E3EBF /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7D364425AD87B7005E3EBF /* Constants.swift */; };
 		EA7D364925ADD1E5005E3EBF /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7D364825ADD1E5005E3EBF /* CurrentWeatherData.swift */; };
 		EA7D364C25ADD8F2005E3EBF /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7D364B25ADD8F2005E3EBF /* CurrentWeather.swift */; };
+		EA7D365225AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png in Resources */ = {isa = PBXBuildFile; fileRef = EA7D365025AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png */; };
+		EA7D365325AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png in Resources */ = {isa = PBXBuildFile; fileRef = EA7D365125AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		EA7D364425AD87B7005E3EBF /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		EA7D364825ADD1E5005E3EBF /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
 		EA7D364B25ADD8F2005E3EBF /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
+		EA7D365025AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 12.31.12.png"; sourceTree = "<group>"; };
+		EA7D365125AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-01-13 в 12.31.21.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +80,7 @@
 				EA7D362B25ACDCB3005E3EBF /* Assets.xcassets */,
 				EA7D362D25ACDCB3005E3EBF /* LaunchScreen.storyboard */,
 				EA7D363025ACDCB3005E3EBF /* Info.plist */,
+				EA7D364F25AEEE18005E3EBF /* Screenshots */,
 			);
 			path = OpenWeatherMapAPI;
 			sourceTree = "<group>";
@@ -112,6 +117,15 @@
 				EA7D362625ACDCB2005E3EBF /* ViewController.swift */,
 			);
 			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		EA7D364F25AEEE18005E3EBF /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				EA7D365025AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png */,
+				EA7D365125AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -171,9 +185,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA7D365225AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.12.png in Resources */,
 				EA7D362F25ACDCB3005E3EBF /* LaunchScreen.storyboard in Resources */,
 				EA7D362C25ACDCB3005E3EBF /* Assets.xcassets in Resources */,
 				EA7D362A25ACDCB2005E3EBF /* Main.storyboard in Resources */,
+				EA7D365325AEEE57005E3EBF /* Снимок экрана 2021-01-13 в 12.31.21.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
